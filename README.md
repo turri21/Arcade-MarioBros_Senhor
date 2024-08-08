@@ -2,6 +2,8 @@
 
 Tested: Working Video 720p, 1080p & Sound
 
+sys/sys_top.sv reg lowlat = 1; //Senhor: Set to 1 (previous value 0) to fix the pixel edge color artifacts when MISTER_FB=1 is enabled in the .qsf
+
 # [Arcade: Mario Bros](https://www.arcade-museum.com/game_detail.php?game_id=8624) for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 Arcade: Mario Bros port to MiSTer by [gaz68](https://github.com/gaz68) - June 2020  
