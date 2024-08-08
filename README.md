@@ -1,3 +1,7 @@
+-=(MarioBros_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
 # [Arcade: Mario Bros](https://www.arcade-museum.com/game_detail.php?game_id=8624) for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 Arcade: Mario Bros port to MiSTer by [gaz68](https://github.com/gaz68) - June 2020  
